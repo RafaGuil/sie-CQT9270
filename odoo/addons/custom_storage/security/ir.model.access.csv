@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_storage_object,storage.object,model_custom_storage_object,base.group_user,1,1,1,1
+access_storage_location,storage.location,model_storage_location,base.group_user,1,1,1,1
