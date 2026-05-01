@@ -1,5 +1,5 @@
 {
-    'name': 'Inventario Visual Estilizado',
+    'name': 'Inventario general ARUS',
     'version': '1.6',
     'summary': 'Control de objetos por lugar, estado y cantidad',
     'category': 'Tools',

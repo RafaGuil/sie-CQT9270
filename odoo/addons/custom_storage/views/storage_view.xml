@@ -7,8 +7,8 @@
             <tree decoration-success="state == 'new'" decoration-info="state == 'good'" decoration-warning="state == 'regular'" decoration-danger="state == 'bad'">
                 <field name="name"/>
                 <field name="location_id"/>
-                <field name="quantity" sum="Total"/>
                 <field name="state" widget="badge"/>
+                <field name="quantity" sum="Total" width="15rem"/>
             </tree>
         </field>
     </record>
